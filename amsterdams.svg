@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="52cm" height="44cm" viewBox="124 8 1030 862" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="619.569" y="9.19733" width="97.1591" height="54.4951"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="619.569" y="9.19733" width="97.1591" height="54.4951"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="668.148" y="40.3449">
+      <tspan x="668.148" y="40.3449">Start</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="668.523,101.801 749.728,177.179 668.523,252.557 587.319,177.179 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="668.523,101.801 749.728,177.179 668.523,252.557 587.319,177.179 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="668.523" y="165.079">
+      <tspan x="668.523" y="165.079">Is de</tspan>
+      <tspan x="668.523" y="181.079">beginkleur</tspan>
+      <tspan x="668.523" y="197.079">troef?</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="668.148" y1="63.6925" x2="668.428" y2="92.0657"/>
+    <polygon style="fill: #000000" points="668.501,99.5653 663.403,89.615 668.428,92.0657 673.403,89.5166 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="668.501,99.5653 663.403,89.615 668.428,92.0657 673.403,89.5166 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="895.824" y="432.696">
+    <tspan x="895.824" y="432.696"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="745.756" y="162.743">
+    <tspan x="745.756" y="162.743">Ja</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="866.675,123.769 944.31,177.179 866.675,230.59 789.041,177.179 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="866.675,123.769 944.31,177.179 866.675,230.59 789.041,177.179 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="866.675" y="173.079">
+      <tspan x="866.675" y="173.079">Heb je een</tspan>
+      <tspan x="866.675" y="189.079">troef?</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="749.728" y1="177.179" x2="779.305" y2="177.179"/>
+    <polygon style="fill: #000000" points="786.805,177.179 776.805,182.179 779.305,177.179 776.805,172.179 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="786.805,177.179 776.805,182.179 779.305,177.179 776.805,172.179 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="866.675" y1="230.59" x2="866.675" y2="273.799"/>
+    <polygon style="fill: #000000" points="866.675,281.299 861.675,271.299 866.675,273.799 871.675,271.299 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="866.675,281.299 861.675,271.299 866.675,273.799 871.675,271.299 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="984.713" y="158.179" width="127.1" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="984.713" y="158.179" width="127.1" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1048.26" y="181.079">
+      <tspan x="1048.26" y="181.079">Speel wat je wilt</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="944.31" y1="177.179" x2="974.977" y2="177.179"/>
+    <polygon style="fill: #000000" points="982.477,177.179 972.477,182.179 974.977,177.179 972.477,172.179 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="982.477,177.179 972.477,182.179 974.977,177.179 972.477,172.179 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="984.713" y="314" width="167.75" height="55.2662"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="984.713" y="314" width="167.75" height="55.2662"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1068.59" y="337.533">
+      <tspan x="1068.59" y="337.533">Speel een troef naar</tspan>
+      <tspan x="1068.59" y="353.533">keuze</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="950.785" y1="343.633" x2="974.994" y2="342.206"/>
+    <polygon style="fill: #000000" points="982.481,341.764 972.792,347.344 974.994,342.206 972.204,337.362 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="982.481,341.764 972.792,347.344 974.994,342.206 972.204,337.362 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="866.675,283.535 950.785,343.633 866.675,403.731 782.566,343.633 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="866.675,283.535 950.785,343.633 866.675,403.731 782.566,343.633 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="866.675" y="339.533">
+      <tspan x="866.675" y="339.533">Kan je</tspan>
+      <tspan x="866.675" y="355.533">overtroeven?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="785.709" y="473.154" width="161.932" height="49.8685"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="785.709" y="473.154" width="161.932" height="49.8685"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="866.675" y="501.988">
+      <tspan x="866.675" y="501.988">Je moet overtroeven</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="866.675" y1="403.731" x2="866.675" y2="462.436"/>
+    <polygon style="fill: #000000" points="866.675,469.936 861.675,459.936 866.675,462.436 871.675,459.936 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="866.675,469.936 861.675,459.936 866.675,462.436 871.675,459.936 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="447.167,90.7624 544.557,177.179 447.167,263.596 349.778,177.179 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,90.7624 544.557,177.179 447.167,263.596 349.778,177.179 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.167" y="165.079">
+      <tspan x="447.167" y="165.079">Heb je een kaart</tspan>
+      <tspan x="447.167" y="181.079">van de begin-</tspan>
+      <tspan x="447.167" y="197.079">kleur?</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="447.167,290.194 524.802,343.605 447.167,397.015 369.533,343.605 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,290.194 524.802,343.605 447.167,397.015 369.533,343.605 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.167" y="339.505">
+      <tspan x="447.167" y="339.505">Heb je een</tspan>
+      <tspan x="447.167" y="355.505">troef?</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="447.167,422.969 544.052,510.282 447.167,597.595 350.282,510.282 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,422.969 544.052,510.282 447.167,597.595 350.282,510.282 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.167" y="490.182">
+      <tspan x="447.167" y="490.182">Is de </tspan>
+      <tspan x="447.167" y="506.182">hoogste kaart</tspan>
+      <tspan x="447.167" y="522.182">op tafel van</tspan>
+      <tspan x="447.167" y="538.182">jouw partner?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="125.392" y="142.176" width="170.85" height="70.006"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="125.392" y="142.176" width="170.85" height="70.006"/>
+    <text font-size="12.8014" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210.817" y="165.076">
+      <tspan x="210.817" y="165.076">Speel een kaart</tspan>
+      <tspan x="210.817" y="181.078">van de beginkleur naar</tspan>
+      <tspan x="210.817" y="197.08">keuze</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="169.142" y="324.605" width="127.1" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="169.142" y="324.605" width="127.1" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="232.692" y="347.505">
+      <tspan x="232.692" y="347.505">Speel wat je wilt</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="587.319" y1="177.179" x2="554.293" y2="177.179"/>
+    <polygon style="fill: #000000" points="546.793,177.179 556.793,172.179 554.293,177.179 556.793,182.179 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="546.793,177.179 556.793,172.179 554.293,177.179 556.793,182.179 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="349.778" y1="177.179" x2="305.978" y2="177.179"/>
+    <polygon style="fill: #000000" points="298.478,177.179 308.478,172.179 305.978,177.179 308.478,182.179 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.478,177.179 308.478,172.179 305.978,177.179 308.478,182.179 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="447.167" y1="263.596" x2="447.167" y2="280.458"/>
+    <polygon style="fill: #000000" points="447.167,287.958 442.167,277.958 447.167,280.458 452.167,277.958 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,287.958 442.167,277.958 447.167,280.458 452.167,277.958 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="447.167" y1="397.015" x2="447.167" y2="413.233"/>
+    <polygon style="fill: #000000" points="447.167,420.733 442.167,410.733 447.167,413.233 452.167,410.733 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,420.733 442.167,410.733 447.167,413.233 452.167,410.733 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="369.533" y1="343.605" x2="305.978" y2="343.605"/>
+    <polygon style="fill: #000000" points="298.478,343.605 308.478,338.605 305.978,343.605 308.478,348.605 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.478,343.605 308.478,338.605 305.978,343.605 308.478,348.605 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="134.31" y="485.347" width="161.932" height="49.8685"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="134.31" y="485.347" width="161.932" height="49.8685"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="215.276" y="514.182">
+      <tspan x="215.276" y="514.182">Je moet overtroeven</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="350.282" y1="510.282" x2="305.978" y2="510.282"/>
+    <polygon style="fill: #000000" points="298.478,510.282 308.478,505.282 305.978,510.282 308.478,515.282 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.478,510.282 308.478,505.282 305.978,510.282 308.478,515.282 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="447.167,615.165 546.802,698.958 447.167,782.75 347.533,698.958 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,615.165 546.802,698.958 447.167,782.75 347.533,698.958 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.167" y="694.858">
+      <tspan x="447.167" y="694.858">Kan je iets anders</tspan>
+      <tspan x="447.167" y="710.858">dan ondertroeven?</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.167" y="698.958">
+    <tspan x="447.167" y="698.958"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1068.59" y="341.633">
+    <tspan x="1068.59" y="341.633"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1068.59" y="341.633">
+    <tspan x="1068.59" y="341.633"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.167" y="698.958">
+    <tspan x="447.167" y="698.958"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="134.31" y="674.023" width="161.932" height="49.8685"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="134.31" y="674.023" width="161.932" height="49.8685"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="215.276" y="702.858">
+      <tspan x="215.276" y="702.858">Je moet ondertroeven</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="215.276" y="698.958">
+    <tspan x="215.276" y="698.958"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="350.292" y="814.484" width="193.75" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="350.292" y="814.484" width="193.75" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="447.167" y="837.384">
+      <tspan x="447.167" y="837.384">Je moet overtroeven</tspan>
+      <tspan x="447.167" y="853.384">of een andere kleur spelen</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="447.167" y1="597.595" x2="447.167" y2="605.429"/>
+    <polygon style="fill: #000000" points="447.167,612.929 442.167,602.929 447.167,605.429 452.167,602.929 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,612.929 442.167,602.929 447.167,605.429 452.167,602.929 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="447.167" y1="782.75" x2="447.167" y2="804.748"/>
+    <polygon style="fill: #000000" points="447.167,812.248 442.167,802.248 447.167,804.748 452.167,802.248 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="447.167,812.248 442.167,802.248 447.167,804.748 452.167,802.248 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="347.533" y1="698.958" x2="305.978" y2="698.958"/>
+    <polygon style="fill: #000000" points="298.478,698.958 308.478,693.958 305.978,698.958 308.478,703.958 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.478,698.958 308.478,693.958 305.978,698.958 308.478,703.958 "/>
+  </g>
+</svg>
